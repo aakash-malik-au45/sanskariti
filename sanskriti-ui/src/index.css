@@ -1,0 +1,28 @@
+:root {
+  font-family: var(--font-body);
+  line-height: 1.5;
+  font-weight: 400;
+  color: #22304d;
+  background: #edf2fb;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  --font-body: 'Manrope', 'Segoe UI', 'Helvetica Neue', 'Arial Nova', Arial, sans-serif;
+  --font-display: 'Sora', 'Trebuchet MS', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+  --surface: #ffffff;
+  --text: #1b2744;
+  --muted: #68789c;
+  --line: #d9e1f2;
+  --brand: #2845a7;
+  --text-on-dark: #f6f9ff;
+  --gold: #ffbe18;
+}
+
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body { margin: 0; min-width: 320px; background: linear-gradient(180deg, #e6edf9 0%, #edf2fb 22%, #edf2fb 100%); color: var(--text); }
+a { color: inherit; text-decoration: none; }
+button, input, select, textarea { font: inherit; }
+img { max-width: 100%; }
+#root { min-height: 100vh; }

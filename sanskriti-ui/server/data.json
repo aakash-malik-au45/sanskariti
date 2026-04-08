@@ -1,0 +1,50 @@
+{
+  "updates": [
+    {
+      "id": "upd_1",
+      "title": "Ph.D. Entrance Exam 2025 Applications Open",
+      "date": "2024-12-15",
+      "category": "Admission",
+      "status": "hot"
+    },
+    {
+      "id": "upd_2",
+      "title": "Semester End Examinations Schedule Released",
+      "date": "2024-12-12",
+      "category": "Exam",
+      "status": "hot"
+    },
+    {
+      "id": "upd_3",
+      "title": "Winter Break Notification for All Departments",
+      "date": "2024-12-10",
+      "category": "Notice",
+      "status": "cool"
+    },
+    {
+      "id": "upd_4",
+      "title": "Guest Lecture by CEO of TechMahindra - Registration Open",
+      "date": "2024-12-08",
+      "category": "Event",
+      "status": "cool"
+    },
+    {
+      "id": "upd_5",
+      "title": "Library Hours Extended for Exam Preparation",
+      "date": "2024-12-05",
+      "category": "Facility",
+      "status": "cool"
+    }
+  ],
+  "admissions": [
+    {
+      "id": "adm_1775651204292",
+      "name": "Aakash Malik",
+      "mobile": "09012192105",
+      "email": "mraakashmalik@gmail.com",
+      "state": "Uttar Pradesh",
+      "program": "B.Tech",
+      "submittedAt": "2026-04-08T12:26:44.292Z"
+    }
+  ]
+}
